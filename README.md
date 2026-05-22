@@ -41,12 +41,6 @@ Install the dependency:
 pip install makcu
 ```
 
-On this PC, the reliable Python path appears to be:
-
-```powershell
-C:\Users\user\AppData\Local\Python\pythoncore-3.14-64\python.exe
-```
-
 ---
 
 ## Project Structure
@@ -101,11 +95,7 @@ The program:
 
 ## Usage
 
-Run the script:
-
-```powershell
-C:\Users\user\AppData\Local\Python\pythoncore-3.14-64\python.exe MAKCU-SPF\main.py
-```
+Run the script
 
 When prompted:
 
